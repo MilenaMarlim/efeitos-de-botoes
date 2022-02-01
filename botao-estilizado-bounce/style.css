@@ -1,0 +1,52 @@
+body {
+    background: linear-gradient(68.15deg, #264653, #2A9D8F);
+}
+
+h1 {
+    margin: 50px;
+    color: white;
+    text-align: center;
+}
+
+.area-do-botao {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+.botao {
+    width: 300px;
+    height: 80px;
+    box-shadow: 50%;
+    background: linear-gradient(68.15deg, #E76F51, #F4A261);
+    box-shadow: 4px 5px 4px 0px #2e012440;
+    border-radius: 20px;
+    color: #264653;
+    font-weight: 600;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Sarala', sans-serif;
+}
+
+@keyframes bounce{
+    0%, 20%, 60%, 100%{
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+    }
+
+    40%{
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+    80%{
+        -webkit-transform: translateY(-10px);
+        transform: translateY(-10px0);
+    }
+}
+
+.botao:hover {
+    background: rgba(205, 227, 245, 0.53);;
+    transition: ease-in-out 0.3s;
+    animation: bounce 1s;
+}
