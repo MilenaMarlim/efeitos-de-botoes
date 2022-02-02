@@ -5,9 +5,9 @@
 💬 Este é um repositório que eu construí para adicionar diferentes efeitos de botões
 
 
-💬 Maiores desafios:
+💬 Meu Glossário:
 
-* Pesquisar diferentes códigos e testar
+* Botão com efeito Bounce - Da um efeito como se o botão estivesse pulando ao passar o mouse. Ele sobe e desce.
 
 ## 🚀 Linguagens utilizadas:
 
