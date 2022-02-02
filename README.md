@@ -2,7 +2,7 @@
 
 💜 Olá !
 
-💬 Este é um repositório que eu construí para adicionar diferentes efeitos de botões
+Este é um repositório que eu construí para adicionar diferentes efeitos de botões
 
 
 💬 Meu Glossário:
