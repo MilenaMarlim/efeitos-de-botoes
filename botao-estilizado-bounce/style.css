@@ -46,7 +46,7 @@ h1 {
 }
 
 .botao:hover {
-    background: rgba(205, 227, 245, 0.53);;
+    background: rgba(205, 227, 245, 0.53);
     transition: ease-in-out 0.3s;
     animation: bounce 1s;
 }
